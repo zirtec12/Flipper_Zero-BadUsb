@@ -1,0 +1,16 @@
+﻿REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Description: Removes Windows Watermark but doesn't activate Windows.
+REM Version:	1.0
+REM Category:	MISC
+DELAY 1200
+GUI r
+DELAY 100
+STRING powershell Start-Process powershell -verb runAs
+DELAY 600
+ALT Y
+DELAY 600
+STRING Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\svsvc" -Name Start -Value 4 -Force
+ENTER
+DELAY 100
+STRING Restart-Computer -Force
+ENTER
