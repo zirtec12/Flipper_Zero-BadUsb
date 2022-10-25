@@ -4,9 +4,7 @@
 The FlipperZero is able to simulate a keyboard via USB connection.
 Scripts can then be executed with which you can do all sorts of things.
 Notice that I am not responsible for any damage caused, this project is just for fun.
-
 ![](header.png)
-
 ## Installation
 
 Windows:
