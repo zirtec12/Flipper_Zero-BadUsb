@@ -39,7 +39,7 @@ By using/downloading the scripts provided by UNC0V3R3D,
 you automatically agree to the following usage agreement. If you do not
 agree to all the terms of this agreement, you aren't allowed to use/download the scripts.
 1. If you download and use the scripts provided by UNC0V3R3D, you agree that, UNC0V3R3D isn't responsible for your actions or any damage you cause.
-2. You are allowed to share all of the files, but UNC0V3R3D is still not responsible for any actions made or any damage caused.
+2. You are allowed to share all of the files.
 3. Copying the files without giving credits will lead to bad luck.
 
 ## Meta
