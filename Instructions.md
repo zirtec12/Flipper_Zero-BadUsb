@@ -11,7 +11,7 @@ If you have any questions after reading this instruction, just DM me on Discord 
 4. If you are using a phone, just install the Flipper Zero mobile app.
 5. If you are using a PC, just install the qFlipper app: https://flipperzero.one/update
 6. Connect your Flipper via Bluetooth if you are using a phone, or connect it via usb if you are on PC.
-7. qFlipper --> SD Card --> badusb --> Move the files here.
+7. Open qFlipper --> SD Card --> badusb --> Move the files here.
 8. Now you are done with moving the files to your Flipper.
  ```
 
