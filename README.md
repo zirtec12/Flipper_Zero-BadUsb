@@ -31,8 +31,12 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
 * v1.2
     * ADD: Added NoMoreSound.txt Script.
 * v1.3
-    * Work in progress
-
+    * A few delay_time errors fixed
+* v1.4
+    * Added a lot of new files to repo
+* v1.5
+    * Added ``DeleteMicrosoftStore.txt`` and fixed link to MEMZ.exe
+      
 ## Usage Agreement
 
 By using/downloading the scripts provided by UNC0V3R3D,
