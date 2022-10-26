@@ -15,7 +15,7 @@ If you have any questions after reading this instruction, just DM me on Discord 
 8. Now you are done with moving the files to your Flipper.
  ```
 
-## Exlanation of the files
+## Explanation of the files
 
 So now that you've moved the files to your Flipper, you first want to understand them before actually using them.
 If you're using the files from my BadUsb repository, 60% of the files are kind of harmless.
