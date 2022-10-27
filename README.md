@@ -58,10 +58,11 @@ Distributed under the MIT license. See ``LICENSE.md`` for more information.
 
 [https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb](https://github.com/UNC0V3R3D/)
 
-## Special Thanks
+## Credits
 
-* [UberGuidoZ] for some Ideas
+* [UberGuidoZ] and [FalsePhilosopher] 
 
 
 [release]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/releases
 [UberGuidoZ]: https://github.com/UberGuidoZ
+[FalsePhilosopher]: https://github.com/FalsePhilosopher
