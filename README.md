@@ -1,6 +1,6 @@
 <img src="https://github.com/UNC0V3R3D/ressources/blob/main/badusbpic.png" height="380" width="1050" >
 
-# FlipperZero BadUsb
+# Badusb Collection for the FlipperZero
 The FlipperZero is able to simulate a keyboard via USB connection.
 Scripts can then be executed with which you can do all sorts of things.
 Notice that I am not responsible for any damage caused, this project is just for fun.
