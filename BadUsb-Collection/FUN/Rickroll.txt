@@ -1,4 +1,4 @@
-REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Author: Thomas McNeela
 REM Description: Rickroll what else
 REM Version: 1.0
 REM Category: FUN
