@@ -1,7 +1,7 @@
-REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
-REM Description: Cartman. Yes.
-REM Version: 1.0
-REM Category: FUN
+REM ---------CARTMAN SPAM----------
+REM -- by Mr-Savag3 --- 09162022 --
+REM -- updated to 1 line by -------
+REM ---------------- I Am Jakoby --
 DELAY 500
 GUI r
 DELAY 600
