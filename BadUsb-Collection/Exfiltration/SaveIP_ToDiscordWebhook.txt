@@ -1,4 +1,4 @@
-REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Author: Startrk1995
 REM Description: Saves some general Information about the target pc to a file.
 REM Version:	1.0
 REM Category:	Exfiltration
