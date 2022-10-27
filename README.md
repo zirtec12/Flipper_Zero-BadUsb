@@ -27,11 +27,11 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
     * Released all the files
 * v1.1
     * CHANGE: More options on storing the grabbed Wifi Passwords (WifiPassStealer.txt)
-    * ADD: Added MEMZ.exe script
+    * ADD: Added ``MEMZ.exe script``
 * v1.2
-    * ADD: Added NoMoreSound.txt Script.
+    * ADD: Added ``NoMoreSound.txt`` Script.
 * v1.3
-    * A few delay_time errors fixed
+    * A few delay_time errors ``fixed``
 * v1.4
     * Added a lot of new files to repo
 * v1.5
@@ -39,7 +39,7 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
 * v1.6
     * Added a bunch of new files
 * v1.7 (BIG UPDATE)
-    * Added a lot of new files, fixed a few files.
+    * Added ``a lot`` of new files, fixed a few files.
       
 ## Usage Agreement
 
