@@ -36,6 +36,10 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
     * Added a lot of new files to repo
 * v1.5
     * Added ``DeleteMicrosoftStore.txt`` and fixed link to MEMZ.exe
+* v1.6
+    * Added a bunch of new files
+* v1.7 (BIG UPDATE)
+    * Added a lot of new files, fixed a few files.
       
 ## Usage Agreement
 
