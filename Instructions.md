@@ -62,7 +62,7 @@ First of all, you have to identify the problem. Then you can look at the list be
   * <em> If the Flipper prints random errors like this you should check the ``text file``. The most common thing causing this error is apparently a ``random blank line``
   between the commands. Otherwise, make sure there is no line containing the ``"LOCALE .."`` command. It doesn't properly work on the Flipper, yeah I do not know why that is. If there is still an error, look at the line where the error is coming from and make sure there is no ``space`` at the beginning of the line. </em>
 
-* I hope that you have found a solution for your problem if you are reading this. If you need help feel free to always contact me via Discord or Email.
+* I hope that you find a a solution for your problem. If you need help feel free to always contact me via Discord or Email.
 
 ## Meta
 
