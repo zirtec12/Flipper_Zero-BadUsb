@@ -31,7 +31,7 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
     * CHANGE: More options on storing the grabbed Wifi Passwords (WifiPassStealer.txt)
     * ADD: Added ``MEMZ.exe script``
 * v1.2
-    * ADD: Added ``NoMoreSound.txt`` Script.
+    * ADD: Added ``NoMoreSound.txt`` Script
 * v1.3
     * A few delay_time errors ``fixed``
 * v1.4
@@ -41,11 +41,16 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
 * v1.6
     * Added a bunch of new files
 * v1.7 (BIG UPDATE)
-    * Added ``a lot`` of new files, fixed a few files.
+    * Added ``a lot`` of new files, fixed a few files
 * v1.7.1 
     * Few fixes due to delay errors
 * v1.8 
-    * Added ``ChangeWinUsername.txt`` and ``setWinPass.txt``.
+    * Added ``ChangeWinUsername.txt`` and ``setWinPass.txt``
+* v1.9 
+    * Added a bunch of new files
+* v2.0 
+    * Added ``DownLoadASCII`` and seperated ``Selfwriting`` Ascii
+    * Instant-download Ascii is about ``20x`` faster
       
 ## Usage Agreement
 
