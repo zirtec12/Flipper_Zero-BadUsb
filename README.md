@@ -12,8 +12,8 @@ Notice that I am not responsible for any damage caused, this project is just for
 Windows:
 
 ```sh
-1. Download the latest Release 
-2. Extract the files
+1. Download the latest Release.
+2. Extract the files.
 3. Use the qFlipper app to drag the files into the "BadUsb" folder on your Flipper.
 ```
 
