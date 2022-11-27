@@ -50,7 +50,7 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
     * Added a bunch of new files
 * v2.0 
     * Added ``DownLoadASCII`` and seperated ``Selfwriting`` Ascii
-    * Instant-download Ascii is about ``20x`` faster
+    * Instant-download Ascii is about ``20x faster``
       
 ## Usage Agreement
 
