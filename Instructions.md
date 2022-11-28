@@ -30,7 +30,7 @@ But some files can actually be dangerous and cause serious damage, so be aware o
 * We use PowerShell or PowerShell scripts in ``97%`` of all DuckyScripts.
 * PowerShell or PowerShell scripts give us ``full power`` over the machine.
 * If you want to learn how to write PowerShell scripts after learning the DuckyScript basics please refer to this [PowerShell-Guide].
-* In 90% of all BadUsb scripts, you will find comments every few lines, that start with the command ``REM`` at the beginning.
+* In BadUsb scripts, you will most likely find comments every few lines, that start with the command ``REM`` at the beginning.
 * Those comments often ``explain the whole process`` and help you a lot.
 * That's how you understand certain BadUsb scripts, but you can also often already identify the script by its file name.
 
