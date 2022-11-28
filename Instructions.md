@@ -42,7 +42,7 @@ But some files can actually be dangerous and cause serious damage, so be aware o
 * Let's choose a script that will draw something in the Notepad.
 * I chose a [script] from my ASCII repository.
 * If you want to open the text file on your phone or pc to see what is inside feel free to do so.
-* To start you are going to start the Flipper and find the ``Bad USB`` category located directly under ``iButton``.
+* To start you are going to start the Flipper and find the ``Bad USB`` category.
 * There you will see all the scripts you have imported from your PC or phone.
 * Now choose a harmless script and wait until the Flipper tells you to connect to a PC via the USB cable.
 * Just press the middle button to start the script.
