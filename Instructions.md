@@ -26,7 +26,7 @@ But some files can actually be dangerous and cause serious damage, so be aware o
 * All BadUsb-Scripts are written in the ``DuckyScript`` language.
 * The language is kind of ``easy`` to understand and to learn.
 * If you really want to look further into this please refer to this [Documentation].
-* The kind of ``hard part`` is the PowerShell scripts.
+* The kind of ``hard part`` are the PowerShell scripts.
 * We use PowerShell or PowerShell scripts in ``97%`` of all DuckyScripts.
 * PowerShell or PowerShell scripts give us ``full power`` over the machine.
 * If you want to learn how to write PowerShell scripts after learning the DuckyScript basics please refer to this [PowerShell-Guide].
