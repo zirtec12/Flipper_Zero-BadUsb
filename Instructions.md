@@ -70,5 +70,5 @@ If you have any idea on how to make this Instruction to BadUsb scripts better fe
 
 [PowerShell-Guide]: https://www.youtube.com/watch?v=IABNJEl2ZWk
 [Documentation]: https://hakshop.zendesk.com/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language
-[script]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/blob/main/FlipperZero_BadUSB_Collection/ASCII_Notepad/SimpleTroll.txt
+[script]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/blob/main/BadUsb-Collection/ASCII/Selfwriting/SimpleTroll.txt
 [qFlipper]: https://flipperzero.one/update
