@@ -69,7 +69,6 @@ Distributed under the MIT license. See ``LICENSE.md`` for more information.
 
 [https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb](https://github.com/UNC0V3R3D/)
 
-Join the discord server for help: https://discord.gg/MPNgMtjAsy
 
 ## Credits
 
