@@ -63,7 +63,7 @@ agree to all the terms of this agreement, you aren't allowed to use/download the
 
 ## Meta
 
-UNC0V3R3D – [@GitHub](https://github.com/UNC0V3R3D) – unc0v3r3dspam@gmail.com
+UNC0V3R3D – [@GitHub](https://github.com/UNC0V3R3D) – unc0v3r3d@proton.me
 
 Distributed under the MIT license. See ``LICENSE.md`` for more information. 
 
