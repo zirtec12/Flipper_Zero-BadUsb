@@ -3,13 +3,9 @@
 # Badusb Collection for the FlipperZero
 ![GitHub all releases](https://img.shields.io/github/downloads/UNC0V3R3D/Flipper_Zero-BadUsb/total?logo=GitHub) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub repo size](https://img.shields.io/github/repo-size/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/UNC0V3R3D/Flipper_Zero-BadUsb?include_prereleases)
 
-The FlipperZero is able to simulate a keyboard via USB connection.
-Scripts can then be executed with which you can do all sorts of things.
+# Before you start!
 
-``IMPORTANT``
-**Notice that I am not responsible for any damage caused, this project is just for fun.**
-
-``Discord Server:`` https://discord.gg/MPNgMtjAsy
+Before you start ``you have to agree`` with the "Usage Agreement" down below. This project ``is just for learning pruposes``. Always ask for ``permission`` before running one of the scripts provided by me. I ``won't`` be responsible for any damage that you may cause.
 ![](header.png)
 ## Installation
 
@@ -33,9 +29,9 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
     * Released all the files
 * v1.1
     * CHANGE: More options on storing the grabbed Wifi Passwords (WifiPassStealer.txt)
-    * ADD: Added ``MEMZ.exe script``
+    * Added ``MEMZ.exe script``
 * v1.2
-    * ADD: Added ``NoMoreSound.txt`` Script
+    * Added ``NoMoreSound.txt`` Script
 * v1.3
     * A few delay_time errors ``fixed``
 * v1.4
