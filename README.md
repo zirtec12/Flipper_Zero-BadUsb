@@ -5,7 +5,7 @@
 
 # Before you start!
 
-Before you start ``you have to agree`` with the "Usage Agreement" down below. This project ``is just for learning pruposes``. Always ask for ``permission`` before running one of the scripts provided by me. I ``won't`` be responsible for any damage that you may cause.
+Before you start ``you have to agree`` with the "Usage Agreement" down below. This project ``is just for learning purposes``. Always ask for ``permission`` before running one of the scripts provided by me. I ``won't`` be responsible for any damage that you may cause.
 ![](header.png)
 ## Installation
 
