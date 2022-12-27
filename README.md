@@ -128,16 +128,19 @@ First of all, you have to identify the problem. Then you can look at the list be
 
 * I hope that you find a a solution for your problem. If you need help feel free to always contact me via Discord or Email.
 
-## Meta
-
-If you have any idea on how to make this Instruction to BadUsb scripts better feel free to open an Issue or contact me via Discord. :)
-
 [PowerShell-Guide]: https://www.youtube.com/watch?v=IABNJEl2ZWk
 [Documentation]: https://hakshop.zendesk.com/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language
 [script]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/blob/main/BadUsb-Collection/ASCII/Selfwriting/SimpleTroll.txt
 [qFlipper]: https://flipperzero.one/update
+[Patreon]: https://patreon.com/user?u=33918929&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
+
+## Sponsoring
+
+If you would like to help me making this project even greater feel free to sponsor me on [Patreon].
 
 ## Meta
+
+If you have any idea on how to make this Instruction to BadUsb scripts better feel free to open an Issue or contact me via Discord. :)
 
 UNC0V3R3D – [@GitHub](https://github.com/UNC0V3R3D) – unc0v3r3d@proton.me
 
