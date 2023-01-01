@@ -6,6 +6,7 @@
 # Before you start!
 
 Before you start ``you have to agree`` with the "Usage Agreement" down below. This project ``is just for learning purposes``. Always ask for ``permission`` before running one of the scripts provided by me. I ``won't`` be responsible for any damage that you may cause.
+If you want to purchase a completely unique and personalized script contact me on discord.
 ![](header.png)
 ## Installation
 
