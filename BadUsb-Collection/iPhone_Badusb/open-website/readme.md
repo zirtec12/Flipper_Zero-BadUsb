@@ -1,7 +1,7 @@
 
 # iPhone_open_website
 
-These scripts will open any website on an iPhone.
+This script will open any website on an iPhone.
 
 
 
