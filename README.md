@@ -1,11 +1,12 @@
+
+# The Ultimate Flipper Zero Badusb Collection
 <img src="https://github.com/UNC0V3R3D/ressources/blob/main/badusbpic.png" height="380" width="1050" >
 
-# Badusb Collection for the FlipperZero
 ![GitHub all releases](https://img.shields.io/github/downloads/UNC0V3R3D/Flipper_Zero-BadUsb/total?logo=GitHub) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub repo size](https://img.shields.io/github/repo-size/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/UNC0V3R3D/Flipper_Zero-BadUsb?include_prereleases)
 
 # Before you start!
 
-Before you start ``you have to agree`` with the "Usage Agreement" down below. This project ``is just for learning purposes``. Always ask for ``permission`` before running one of the scripts provided by me. I ``won't`` be responsible for any damage that you may cause.
+In order to begin, you ``must read and accept`` the usage agreement. **This project is for educational purposes only**! Please seek permission before running any of the scripts provided by me. I cannot be held responsible for any damage that may occur as a result of your use of these scripts.
 If you want to purchase a completely unique and personalized script contact me on discord.
 ![](header.png)
 ## Installation
@@ -13,16 +14,14 @@ If you want to purchase a completely unique and personalized script contact me o
 Windows:
 
 ```sh
-1. Download the latest Release.
-2. Extract the files.
-3. Use the qFlipper app to drag the files into the "BadUsb" folder on your Flipper.
+1. git clone https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb.git
+
+2. Use the qFlipper app to drag the files into the "BadUsb" folder on your Flipper.
 ```
 
 ## Usage example
 
-First, you can try out a few scripts on your own PC.
-Most scripts are relatively harmless, but you should first read the description in the respective file.
-Some scripts can also cause damage. Therefore, I am **NOT** responsible for any damage you cause.
+To begin using the scripts, ``please carefully read`` the "readme.md" file provided with each script. This file contains ``important information`` on how to use the script safely. Keep in mind that some scripts may ``potentially harm your system``, so be cautious and do not run unfamiliar scripts on your personal computer. To test scripts, it is recommended to ``use a virtual machine`` for safety.
 
 ## Release History
 
@@ -52,15 +51,18 @@ Some scripts can also cause damage. Therefore, I am **NOT** responsible for any 
 * v2.0 
     * Added ``DownLoadASCII`` and seperated ``Selfwriting`` Ascii
     * Instant-download Ascii is about ``20x faster``
+* v2.1
+    * Added readme files for every script
+    * Readme files contain ``important info`` about the script
+      
       
 ## Usage Agreement
 
-By using/downloading the scripts provided by UNC0V3R3D,
-you automatically agree to the following usage agreement. If you do not
-agree to all the terms of this agreement, you aren't allowed to use/download the scripts.
-1. If you download and use the scripts provided by UNC0V3R3D, you agree that, UNC0V3R3D isn't responsible for your actions or any damage you cause.
-2. You are allowed to share all of the files.
-3. Copying the files without giving credits will lead to bad luck.
+By downloading and using the scripts provided by UNC0V3R3D, you are automatically agreeing to the following usage agreement. If you do not agree to the terms of this agreement, you are not permitted to download or use the scripts.
+
+1. You acknowledge that UNC0V3R3D ``is not responsible`` for your actions or any damage you may cause as a result of using the scripts.
+2. You are ``permitted`` to share all of the files.
+3. You are ``allowed`` to modify the files, but are still responsible for your own actions.
 
 
 # Instructions for newbies
@@ -70,25 +72,22 @@ If you have any questions after reading this instruction, just DM me on Discord 
 ## Installation
 
 ``` sh
-1. Download the files directly from the repo or download the latest release.
+1. Clone/Download the files directly from the repo or download the latest release.
 2. Extract the files anywhere you like
-3. Now you need to somehow get the files on your Flipper
-4. If you are using a phone, just install the Flipper Zero mobile app.
-5. If you are using a PC, just install the qFlipper app: https://flipperzero.one/update
-6. Connect your Flipper via Bluetooth if you are using a phone, or connect it via usb if you are on PC.
-7. Open qFlipper --> SD Card --> badusb --> Move the files here.
-8. Now you are done with moving the files to your Flipper.
+3. If you are using a phone, just install the Flipper Zero mobile app.
+4. If you are using a PC, just install the qFlipper app: https://flipperzero.one/update
+5. Connect your Flipper via Bluetooth if you are using a phone, or connect it via usb if you are on PC.
+6. Open qFlipper --> SD Card --> badusb --> Move the files here.
+7. Now you are done with moving the files to your Flipper.
  ```
 
 ## Explanation of the files
 
-So now that you've moved the files to your Flipper, you first want to understand them before actually using them.
-If you're using the files from my BadUsb repository, 60% of the files are kind of harmless.
-But some files can actually be dangerous and cause serious damage, so be aware of that.
+Before using the files on your Flipper, it is important to thoroughly understand them. While the majority of the files in my BadUsb repository are relatively harmless, there are some that may potentially cause serious damage. It is important to exercise caution when using these files.
 
 <h3> Understanding DuckyScript </h3>
 
-* All BadUsb-Scripts are written in the ``DuckyScript`` language.
+* All BadUsb-Scripts are written in the ``DuckyScript 1.0`` language.
 * The language is kind of ``easy`` to understand and to learn.
 * If you really want to look further into this please refer to this [Documentation].
 * The kind of ``hard part`` are the PowerShell scripts.
@@ -126,6 +125,9 @@ First of all, you have to identify the problem. Then you can look at the list be
 * ``1.1`` <b> The Flipper shows an error like this: ``ERROR: line 5`` </b>
   * <em> If the Flipper prints random errors like this you should check the ``text file``. The most common thing causing this error is apparently a ``random blank line``
   between the commands. Otherwise, make sure there is no line containing the ``"LOCALE .."`` command. It doesn't properly work on the Flipper, yeah I do not know why that is. If there is still an error, look at the line where the error is coming from and make sure there is no ``space`` at the beginning of the line. </em>
+  
+* ``1.3`` <b> The Flipper shows an random overlayed error in line 1 </b>
+  * <em> This is a new error/bug in the official firmware! To get around this error you will need to install an older version of the official firmware or switch to a third-party firmware like "Rogue Master". </em>
 
 * I hope that you find a a solution for your problem. If you need help feel free to always contact me via Discord or Email.
 
@@ -141,7 +143,7 @@ If you would like to help me making this project even greater feel free to spons
 
 ## Meta
 
-If you have any idea on how to make this Instruction to BadUsb scripts better feel free to open an Issue or contact me via Discord. :)
+If you have any idea on how to make this Instruction to BadUsb scripts better, feel free to open an Issue or contact me via Discord. :)
 
 UNC0V3R3D – [@GitHub](https://github.com/UNC0V3R3D) – unc0v3r3d@proton.me
 
@@ -152,9 +154,12 @@ Distributed under the MIT license. See ``LICENSE.md`` for more information.
 
 ## Credits
 
-* [UberGuidoZ] and [FalsePhilosopher] 
+* [UberGuidoZ] , [FalsePhilosopher] , [nocomp] and [I-am-Jakoby]
+* Make sure to check them out! They are the reason this repository exists. When I started learning how to create badusb scripts i learnt from them.
 
 
 [release]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/releases
 [UberGuidoZ]: https://github.com/UberGuidoZ
 [FalsePhilosopher]: https://github.com/FalsePhilosopher
+[nocomp]: https://github.com/nocomp
+[I-am-Jakoby]: https://github.com/I-Am-Jakoby
