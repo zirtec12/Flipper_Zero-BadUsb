@@ -132,7 +132,7 @@ First of all, you have to identify the problem. Then you can look at the list be
 * I hope that you find a a solution for your problem. If you need help feel free to always contact me via Discord or Email.
 
 [PowerShell-Guide]: https://www.youtube.com/watch?v=IABNJEl2ZWk
-[Documentation]: https://hakshop.zendesk.com/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language
+[Documentation]: https://web.archive.org/web/20220816200129/http://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
 [script]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/blob/main/BadUsb-Collection/ASCII/Selfwriting/SimpleTroll.txt
 [qFlipper]: https://flipperzero.one/update
 [Patreon]: https://patreon.com/user?u=33918929&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
