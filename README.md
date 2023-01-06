@@ -56,7 +56,8 @@ To begin using the scripts, ``please carefully read`` the "readme.md" file provi
 * v2.1
     * Added readme files for every script
     * Readme files contain ``important info`` about the script
-      
+* v2.2
+    * Added the ``GoodUSB`` folder
       
 ## Usage Agreement
 
