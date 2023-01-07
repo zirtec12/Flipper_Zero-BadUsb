@@ -10,9 +10,9 @@ To do this, I have coded a python program that will use the grabbed "key" to dec
 
 In the python file, you will have to change 2 paths:
 
-Line 14: ("path to key") insert the filepath to the key txt file on your pc.
+``Line 14:`` ("path to key") insert the filepath to the key txt file on your pc.
 
-Line 46: ("path to encrypted file") insert the filepath to the encrypted login file on your pc.
+``Line 46:`` ("path to encrypted file") insert the filepath to the encrypted login file on your pc.
 
 
 ## Features
