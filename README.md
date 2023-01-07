@@ -66,6 +66,7 @@ By downloading and using the scripts provided by UNC0V3R3D, you are automaticall
 1. You acknowledge that UNC0V3R3D ``is not responsible`` for your actions or any damage you may cause as a result of using the scripts.
 2. You are ``permitted`` to share all of the files.
 3. You are ``allowed`` to modify the files, but are still responsible for your own actions.
+4. If you are using my scripts in your own repo, please consider giving credits.
 
 
 # Instructions for newbies
