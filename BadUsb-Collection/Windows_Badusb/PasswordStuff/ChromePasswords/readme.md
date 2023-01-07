@@ -6,6 +6,8 @@ Grabs the encrypted chrome login file and sends it to a discord webhook suing [I
 
 This script is not plug and play, you will need to change the webhook url and decrypt the file yourself after it arrives in your discord.
 
+Here is a youtube video that explains the decryption: https://www.youtube.com/watch?v=LzEX6HAL79k
+
 
 ## Features
 
