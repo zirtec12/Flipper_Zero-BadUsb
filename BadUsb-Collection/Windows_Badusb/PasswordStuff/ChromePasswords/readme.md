@@ -4,15 +4,11 @@ Grabs the "key" and "login data" file for google chrome and sends them to a disc
 
 ## How to use?
 
-Well this script is kind of plug and play. AFter the two files ("encryped passwords" and "key.txt") got sent to your webhook, you will have to decrypt the passwords.
+Well this script is kind of plug and play. After the two files ("encryped passwords" and "key.txt") got sent to your webhook, you will have to decrypt the passwords.
 
 To do this, I have coded a python program that will use the grabbed "key" to decrypt the passwords.
 
-In the python file, you will have to change 2 paths:
-
-``Line 14:`` ("path to key") insert the filepath to the key txt file on your pc.
-
-``Line 46:`` ("path to encrypted file") insert the filepath to the encrypted login file on your pc.
+Get the [program]
 
 
 ## Features
@@ -25,7 +21,7 @@ In the python file, you will have to change 2 paths:
 
 If you have any feedback, please reach out to me via Discord "UNC0V3R3D#8662".
 
-
+[program]: https://github.com/UNC0V3R3D/ChromeDecrypter
 
 
 
