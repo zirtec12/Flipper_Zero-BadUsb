@@ -1,6 +1,6 @@
 REM Author: 0xlunar
 REM Description: Activate Windows permanently with MAS
-REM Version: 1.0
+REM Version: 1.1
 REM Category: GoodUSB
 DELAY 500
 GUI r
