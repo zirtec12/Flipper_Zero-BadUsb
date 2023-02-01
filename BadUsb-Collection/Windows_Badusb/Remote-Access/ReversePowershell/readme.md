@@ -1,6 +1,6 @@
 
 # ReversePowershell
-This script is for learning purposes only. I am not responsible for your actions and not going to help you with anything.
+This script is for learning purposes only. I am not responsible for your actions and not going to help you setting up the scripts as I don't want to get into trouble. I do/will not support any illegal activities.
 
 ## How to use?
 
