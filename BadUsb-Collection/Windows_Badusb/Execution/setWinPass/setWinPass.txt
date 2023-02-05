@@ -26,4 +26,5 @@ STRING Set-LocalUser -Name $User -Password $NewPassword
 DELAY 300
 ENTER
 DELAY 600
-exit
+STRING exit
+ENTER
