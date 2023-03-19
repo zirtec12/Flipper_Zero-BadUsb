@@ -1,14 +1,12 @@
 
-# StealWifiKeys_Email
-Steals all of the saved Wifi Passwords and stores them into a file, then sends the file via email.
+# StealWifiKeys_Discord
+Steals all of the saved Wifi Passwords and stores them into a file, then sends the file to a discord webhook.
 
 ## How to use?
 
-This script is not plug and play and only for experienced users. You will need to do the following changes:
+This script is not plug and play. You will need to do the following changes:
 
-- change credentials "System.Net.NetworkCredential('EMAIL HERE', 'EMAIL PASSWORD HERE')"
-- change credentails "$ReportEmail.From = 'YOUR EMAIL'"
-- change credentials "$ReportEmail.To.Add('email to send to')"
+- change discord webhhook url.
 
 
 ## Features
@@ -16,7 +14,7 @@ This script is not plug and play and only for experienced users. You will need t
 - open powershell
 - grab wifi keys
 - store keys to a file
-- send file via email
+- send file to discord webhook
 
 ## Feedback
 
