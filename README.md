@@ -160,12 +160,11 @@ Distributed under the MIT license. See ``LICENSE.md`` for more information.
 
 ## Credits
 
-* [UberGuidoZ] , [FalsePhilosopher] , [nocomp] and [I-am-Jakoby]
+* [UberGuidoZ] , [FalsePhilosopher] and [I-am-Jakoby]
 * Make sure to check them out! They are the reason this repository exists. When I started learning how to create badusb scripts i learnt from them.
 
 
 [release]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/releases
 [UberGuidoZ]: https://github.com/UberGuidoZ
 [FalsePhilosopher]: https://github.com/FalsePhilosopher
-[nocomp]: https://github.com/nocomp
 [I-am-Jakoby]: https://github.com/I-Am-Jakoby
