@@ -1,5 +1,7 @@
+# Original repo
+https://github.com/FalsePhilosopher/badusb/tree/main/destructive/Win/Delete32
 
-# Delete_System_32
+# 32 Wants the D
 
 This script deletes the system 32 folder. Be careful!
 
