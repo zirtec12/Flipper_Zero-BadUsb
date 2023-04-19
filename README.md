@@ -61,6 +61,10 @@ To begin using the scripts, ``please carefully read`` the "readme.md" file provi
     * Readme files contain ``important info`` about the script
 * v2.2
     * Added the ``GoodUSB`` folder
+* v2.5
+    * Skipped a few releases
+    * Added a few files
+    * Fixed ``SAM exfiltration``
       
 ## Usage Agreement
 
