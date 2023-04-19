@@ -146,7 +146,7 @@ First of all, you have to identify the problem. Then you can look at the list be
 
 ## Sponsoring
 
-If you would like to help me making this project even greater feel free to sponsor me on [Patreon].
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5HIDDD)
 
 ## Meta
 
