@@ -3,7 +3,7 @@
 <img src="https://github.com/UNC0V3R3D/ressources/blob/main/badusbpicnew.png" height="380" width="1050" >
 
 ![GitHub all releases](https://img.shields.io/github/downloads/UNC0V3R3D/Flipper_Zero-BadUsb/total?logo=GitHub) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub repo size](https://img.shields.io/github/repo-size/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/UNC0V3R3D/Flipper_Zero-BadUsb?include_prereleases)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jo.112.nas@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+suppporting+UNC0V3R3D's+Github+Project.&cn=&curency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jo.112.nas@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+supporting+UNC0V3R3D's+Github+Project.&cn=&curency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
 
 
 # Before you start!
@@ -82,7 +82,7 @@ By downloading and using the scripts provided by UNC0V3R3D, you are automaticall
 5. You are allowed to do everything the license says...
 
 # Instructions for newbies
-In this quick instruction you are going to learn how to setup the scripts and use them properly.
+In this quick instruction, you are going to learn how to set up the scripts and use them properly.
 If you have any questions after reading this instruction, just DM me on Discord (UNC0V3R3D#8662).
 
 ## Installation
@@ -122,7 +122,7 @@ Before using the files on your Flipper, it is important to thoroughly understand
 * Let's choose a script that will draw something in the Notepad.
 * I chose a [script] from my ASCII repository.
 * If you want to open the text file on your phone or pc to see what is inside feel free to do so.
-* To start you are going to start the Flipper and find the ``Bad USB`` category.
+* To start you are going to start the Flipper and find the ``BadUSB`` category.
 * There you will see all the scripts you have imported from your PC or phone.
 * Now choose a harmless script and wait until the Flipper tells you to connect to a PC via the USB cable.
 * Just press the middle button to start the script.
