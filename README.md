@@ -15,10 +15,6 @@ In order to begin, you ``must read and accept`` the usage agreement. **This proj
 If you want to purchase a completely unique and personalized script contact me on discord.
 ![](header.png)
 
-## Status ✅
-
-Check the scripts status over here: https://www.scriptattack.dev/status
-
 ## Installation
 
 Windows:
