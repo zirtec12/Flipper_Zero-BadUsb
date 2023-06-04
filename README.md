@@ -138,9 +138,6 @@ First of all, you have to identify the problem. Then you can look at the list be
   * <em> If the Flipper prints random errors like this you should check the ``text file``. The most common thing causing this error is apparently a ``random blank line``
   between the commands. Otherwise, make sure there is no line containing the ``"LOCALE .."`` command. It doesn't properly work on the Flipper, yeah I do not know why that is. If there is still an error, look at the line where the error is coming from and make sure there is no ``space`` at the beginning of the line. </em>
   
-* ``1.3`` <b> The Flipper shows an random overlayed error in line 1 </b>
-  * <em> This is a new error/bug in the official firmware! To get around this error you will need to install an older version of the official firmware or switch to a third-party firmware like "Rogue Master". </em>
-
 * I hope that you find a a solution for your problem. If you need help feel free to always contact me via Discord or Email.
 
 [PowerShell-Guide]: https://www.youtube.com/watch?v=IABNJEl2ZWk
